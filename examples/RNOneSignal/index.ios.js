@@ -23,7 +23,7 @@ import {
 
 import OneSignal from 'react-native-onesignal';
 
-let imageUri = 'https://media.licdn.com/media/AAEAAQAAAAAAAAyOAAAAJDJhY2JlMmJjLWI1NzctNGNmNC1iMDU1LWE4NjI4Nzc1YTU2Zg.png'
+let imageUri = 'https://cdn-images-1.medium.com/max/300/1*7xHdCFeYfD8zrIivMiQcCQ.png'
 
 export default class RNOneSignal extends Component {
     constructor(properties) {

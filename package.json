@@ -1,6 +1,6 @@
 {
   "name": "react-native-onesignal",
-  "version": "3.1.4",
+  "version": "3.1.5",
   "description": "React Native OneSignal Component",
   "main": "index",
   "scripts": {
@@ -10,9 +10,9 @@
     "invariant": "^2.2.2"
   },
   "rnpm": {
-     "ios": {
-        "sourceDir": "./ios"
-     }
+    "ios": {
+      "sourceDir": "./ios"
+    }
   },
   "keywords": [
     "react-component",
@@ -26,11 +26,11 @@
     "onesignal"
   ],
   "bugs": {
-    "url": "https://github.com/geektimecoil/react-native-onesignal/issues"
+    "url": "https://github.com/maxmcd/react-native-onesignal/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/geektimecoil/react-native-onesignal"
+    "url": "https://github.com/maxmcd/react-native-onesignal"
   },
   "author": "Geektime <http://www.geektime.co.il>",
   "license": "MIT"
